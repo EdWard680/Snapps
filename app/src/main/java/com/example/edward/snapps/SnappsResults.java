@@ -13,7 +13,7 @@ public class SnappsResults extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_snapps_results);
-        Log.wtf("Snapps", "CREATED_RESULT_ACTIVITY");
+        Log.i("Snapps", "CREATED_RESULT_ACTIVITY");
     }
 
 
